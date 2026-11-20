@@ -1,0 +1,13 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "event_hole": "[10, 10, 4]",
+            "fix_hole_diam": "3",
+            "fix_length": "10",
+            "length": "20",
+            "wall_thickness": "2",
+            "width": "15"
+        }
+    }
+}

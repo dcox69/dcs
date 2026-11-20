@@ -1,0 +1,43 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "$fn": "200",
+            "$fs": "0.10000000000000001",
+            "acboard_boss_type": "M2.5",
+            "acbox_lid_clearance": "0.29999999999999999",
+            "acbox_radius": "10",
+            "acbox_wall_thickness": "1",
+            "ec11_hole_diameter": "7.5",
+            "optoboard_boss_type": "M2.5",
+            "panel_ext_length": "140",
+            "panel_ext_width": "113",
+            "panel_fixing_hole_diameter": "3",
+            "panel_int_clearance": "0.80000000000000004",
+            "panel_int_depth": "6",
+            "panel_int_length": "105",
+            "panel_int_width": "78",
+            "panel_radius": "10",
+            "panel_thickness": "2",
+            "pcb_clearance": "20",
+            "pcb_thickness": "1.6000000000000001",
+            "screen_boss_height": "4",
+            "screen_boss_pitch_x": "22",
+            "screen_boss_pitch_y": "22",
+            "screen_boss_type": "M2",
+            "screen_bosses_follow_tray": "true",
+            "screen_length": "24",
+            "screen_offset_x": "-25",
+            "screen_offset_y": "0",
+            "screen_panel_height": "26",
+            "screen_panel_width": "26",
+            "screen_tray_depth": "1",
+            "screen_tray_margin": "3",
+            "screen_width": "14",
+            "show_mode": "4",
+            "show_pcbs": "false",
+            "usb_connector_opening_length": "11.199999999999999",
+            "usb_connector_opening_width": "4.7999999999999998"
+        }
+    }
+}
